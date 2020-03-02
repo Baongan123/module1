@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    width: 900px;
+    height: 1000px;
+    margin: 0 auto;
+}
+#menu-top {
+    background-color: orangered;
+    height: 50px;
+
+}
+
+
+#benner #left{
+    background-color: cyan;
+    height: 200px;
+    width: 450px;
+    float: left;
+    
+}
+#benner #right{
+    background-color: blueviolet;
+    height: 200px;
+    width: 450px;
+    float: right;
+}
+
+
+#main {
+    background-color: plum;
+    width: 900px;
+    height: 600px;
+    
+}
+#footer {
+    background-color: burlywood;
+    width: 900px;
+    height: 100px;   
+}
+#menu-top ul{
+    margin: 0px;
+    padding: 0px;
+}
+#menu-top ul li{
+    list-style: none;
+    float: left;
+}
+
+#menu-top ul li a { 
+    text-decoration: none;
+    display: block;
+    line-height: 40px;
+    color: white;
+}    
+    
+
+
+
+

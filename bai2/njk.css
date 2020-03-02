@@ -1,0 +1,22 @@
+
+
+body{
+    margin: center;
+}
+#a {
+    list-style-type: circle;
+    color: red;
+    letter-spacing: 4px;
+}
+
+#c  li {
+    line-height: initial;
+    color: blue;
+    text-align: left;
+}
+#b{
+    background-color:pink;
+    color:blue;
+    border: 1px solid back;
+    text-decoration:underline;
+}

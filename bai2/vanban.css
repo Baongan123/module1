@@ -1,0 +1,30 @@
+div{
+    width: 1000px;
+    height: 500px;
+    font-family: 'Times New Roman', Arial, Helvetica, sans-serif  Times, serif;
+}
+.text{
+    font-style:italic;
+    padding: 1px;
+    margin-top: -10px;
+
+}
+hr{
+    margin-top: -50px;
+}
+
+#duynhat{
+    
+    font-style: normal;
+    font-size: 50px;
+    text-align:left;
+
+}
+.body , .body2{
+    font-family:'Times New Roman';
+    text-indent: 50px;
+    text-align: justify;
+    margin-top: 41px;
+
+}
+
